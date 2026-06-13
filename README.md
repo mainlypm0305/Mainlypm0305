@@ -66,6 +66,8 @@ With a strong foundation in **modern JavaScript frameworks**, **Python ecosystem
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark&perline=10" />
 </p>
 
+---
+
 ## 📜 Certifications
 
 #### ☁️ AWS
@@ -83,19 +85,6 @@ With a strong foundation in **modern JavaScript frameworks**, **Python ecosystem
 #### 🌐 Cisco
 ![Cisco Networking](https://img.shields.io/badge/Cisco_Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Cyber](https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
 
 ---
 
